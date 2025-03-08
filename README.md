@@ -1,1 +1,2 @@
-This repo is mainly a guide. If you want to play 2048 find it [here](https://github.com/gabrielecirulli/2048)
+## This repo is mainly a guide. If you want to play 2048 you can find it [here](https://github.com/gabrielecirulli/2048)
+ok so idk how you're here, but I assume you're coming to learn about reading others' code and make modifications on it while learning Javascript and Web development, or you can call that hacking. To start, you can go read index.html and you will find the explaination of the basic file system of a web application.\(Yes I've made this into a gamebook way to have fun\)
